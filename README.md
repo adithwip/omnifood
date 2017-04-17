@@ -14,4 +14,8 @@ HTML elements | CSS properties
 `<!DOCTYPE html>` | `box-sizing`
 `div` | `float`
 `ul` `ol` `li` | `margin` `padding` `border`
-
+`&mdas;` | `font-family` `font-weight` `font-size`
+`class` | `color` `background`
+`figure` | `display` `position`
+`section` | `transititon: background-color`
+Many | More
