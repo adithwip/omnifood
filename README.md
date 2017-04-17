@@ -7,4 +7,9 @@ Omnifood adalah perusahaan *dummy* yang didesain sebagai sebuah startup kuliner 
 
 **Used Tags and Syntaxs**
 
+Beberapa HTML elements dan CSS properties yang saya gunakan pada web ini sudah saya pelajari jauh hari sebelum resmi menjadi murid Batch-8 Happy Fox di Hactiv8. Dengan bantuan course dari Udemy.com, saya dapat membuat sebagian website yang belum pernah saya bayangkan sebelumnya. Inilah beberapa HTML dan CSS code yang saya gunakan di website ini:
+
+HTML elements | CSS properties
+------------- | --------------
+<!DOCTYPE html> | box-sizing
 
