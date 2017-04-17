@@ -19,3 +19,16 @@ HTML elements | CSS properties
 `figure` | `display` `position`
 `section` | `transititon: background-color`
 Many | More
+
+** About Me **
+
+Hi, saya Adith
+Setelah 6 tahun lebih menjalani realita dunia sebagai mahasiswa desain dan desainer (profesional dan freelance), hingga sampai ke tahap dimana realita dunia ternyata masih terlalu tebal armornya untuk ditembus dengan senjata pilihan seorang desainer. hingga berani memilih untuk melanjutkan proses pembelajaran untuk menjadi full-stack developer di Hacktiv8 dan berhasil menjadi murid di Batch-8 ** Happy Fox. ** 
+
+Sebagai desainer, ternyata dunia full-stack developer tidaklah begitu asing. Walaupun bukan berarti menjadi terasa mudah. Well, sebagai persembahan saya kepada ** Happy Fox ** Squad, maka dengan ini website *WIP* ini secara resmi saya nyatakan, ** Published! **
+
+Bekasi, 17 April 2017
+
+Atas nama Bangsa Indonesia,
+
+Adith Widya Pradipta
