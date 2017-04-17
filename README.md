@@ -11,5 +11,7 @@ Beberapa HTML elements dan CSS properties yang saya gunakan pada web ini sudah s
 
 HTML elements | CSS properties
 ------------- | --------------
-<!DOCTYPE html> | box-sizing
+`<!DOCTYPE html>` | `box-sizing`
+`div` | `float`
+`ul` `ol` `li` | `margin` `padding` `border`
 
